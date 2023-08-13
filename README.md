@@ -37,7 +37,8 @@
 - 采用flask-jwt-extended进行token认证
 - 采用flask-cors进行跨域请求
 - 采用flask-restful进行api接口开发
-- 引入sms-sdk进行短信验证码发送 
+- 引入sms-sdk进行短信验证码发送
+- 自定义装饰器，钩子函数等进行拦截校验
 
 ## 二、项目演示
 **由于短信接口收费，就不放演示地址了** 
